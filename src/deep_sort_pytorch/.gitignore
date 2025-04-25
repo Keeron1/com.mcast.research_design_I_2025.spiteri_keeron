@@ -1,0 +1,15 @@
+# Folders
+__pycache__/
+build/
+*.egg-info
+.idea/
+
+
+# Files
+*.weights
+*.pth
+*.pt
+*.mp4
+*.avi
+*.so
+*.txt
