@@ -1,0 +1,12 @@
+torch>=1.9
+torchvision>=0.13
+numpy
+scipy
+opencv-python
+scikit-learn
+pillow
+matplotlib
+pycocotools
+tqdm
+easydict
+vizer
